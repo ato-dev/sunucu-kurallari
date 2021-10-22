@@ -1,0 +1,35 @@
+```diff
+- Saygılı, medeni ve misafirperver olun.
+- Uygunsuz veya güvenli olmayan içerik yasak.
+- Herhangi bir kanalı kötüye kullanmayın ve spam yapmayın.
+- Reklam yapmayın.
+- NSFW olan herhangi bir içeriğe hiçbir koşulda izin verilmez.
+- Hiçbir şey almayın/satmayın/takas etmeyin/vermeyin.
+- Din veya siyaset gibi tartışmalı konulara izin verilmez.
+- Engellenen kelimeleri atlamaya çalışmayın.
+- Alternatif hesaplara hiçbir koşulda izin verilmez.
+- Belirli grupları/kişileri hedef alan herhangi bir şey yasaktır.
+- Herkese açık kanallardaki herhangi bir dizi, film, anime, spor vb. şovlar hakkında büyük spoiler paylaşmayın.
+- Sesli kanal konuşmalarını kaydetmeyin.
+- Yasaklı üyelerle ilgili konulardan kaçının.
+- Konuda kalın ve kanalları doğru kullanın.
+- Bilgisayar korsanlığı veya hile hakkında konuşmayın.
+- Dolandırıcı web sitelerine bağlantı vermeyin.
+- Spoiler içeren bir paylaşım yapılırken, spoiler etiketi kullanmalı ve belirtilmelidir.
+- Sunucunun personelini dinleyin.
+- Uygun kanalları kullanın.
+- Ticaret, satış, dilencilik, artırma ve hesap paylaşımına izin verilmez.
+- Yetişkinlere yönelik konular hakkında konuşmayın.
+- Ayrımcı dil ve nefret söylemi yasaktır.
+- Toxicliğe izin verilmediğinden saygılı ve misafirperver olun.
+- Personele sebepsiz yere etiket atmayın.
+- Aynı anda 4'ten fazla kişiye etiket atarak veya rastgele üyelere ping atarak toplu olarak bahsetmeyin.
+- Kural ihlalini teşvik etmek bir suçtur.
+- Bir bilgisayar ekranında mesajların 7 satırı aşarak sohbeti karmaşıklaştırmayın.
+- Discord sunucu davetlerini sunucuya veya DM'lere göndermeyin.
+- Tanınmış kişiler de dahil olmak üzere başkalarını taklit etmeyin.
+- Uygunsuz profil resimlerine, kullanıcı adlarına, durumlara, küfürlü kullanıcı adlarına veya boş adlara izin verilmez.
+- Başkalarının sanatını/emeğini kopyalamayın/çalmayın veya üzerinde hak iddia etmeyin.
+- İğrenç, aşırı veya uygunsuz seslere izin verilmez.
+- Discord'u kullanmak için en az 13 yaşında olmanız gerekir.
+```
